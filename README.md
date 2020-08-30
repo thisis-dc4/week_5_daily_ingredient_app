@@ -2,9 +2,9 @@
 
 ## Challenge for Week 5
 
-![Challenge image](Challenge.webp)
-
 [Design Link. Thanks to Mohamed Nasr.](https://dribbble.com/shots/14031962-Daily-Ui-ingredient-app-Exploration)
+
+![Challenge image](Challenge.webp)
 
 ## Getting Started
 
